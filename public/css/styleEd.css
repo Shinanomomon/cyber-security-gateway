@@ -1,0 +1,45 @@
+body {
+    background-color: bisque;
+    color: black;
+    text-align: center;
+}
+h1,h2{
+    color:blue;
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a:link {
+    color: pink;
+}
+a:hover {
+    color: brown;
+    text-decoration: underline;
+}
+a:active {
+    font-weight: bold;
+    font-style: italic;
+}
+a:visited {
+    color:blueviolet;
+}
+td:hover {
+    background-color: white;
+}
+
+table, tr, td {
+    background-color: azure;
+    border: black 1px solid;
+    width: 500px;
+}
+th{
+    border: black 1px solid;
+    font-size: 0.75cm;
+}
+
+
+
